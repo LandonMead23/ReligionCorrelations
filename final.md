@@ -1,9 +1,10 @@
 # I don't like how this turned out
 
-I'm really not happy with this at all and so I'm sorry if the horrid level of quality shows.
+Disclaimer: I'm really not happy with the turnout at all and so I'm sorry if the horrid level of quality shows. I liked working on this project a lot, but I think my time management was not all there and it might show. I think there was a lot of interesting things I found and looked at, however I didn't complete my goal of finding a true correlation/causation regarding my argument. My conclusion dives deeper into why my project starts like this.
 
 There was a lot of use of Gemini because time shortages and it made the project itself really feel lifeless to me. I want to try this again at a later time with a different research question, one that I can find a more solid correlation.
 
+My argument is: A correlation with religious affiliation and GDP (or GDP per capita) should be present through data. I chose this claim because of my current beliefs of religion and how it interacts with the world. We will see later whether I am correct.
 
 ```python
 import pandas as pd
@@ -5928,3 +5929,8 @@ There is an obvious trend between the graphs which is, as the percent of evangel
 I'm deeply sorry in my performance here, I'm very dissappointed in myself. I want to try this again with more time spent on getting data. Actually using the resources I can like asking professors for possible avenues, which I lacked the hindsight to do, would have been a huge help. I'd also like to try to do this on a Physics focus possibly.
 
 In terms of my "argument", I could not find an intellectually rigorous answer to my question. I found a decent correlation in the education to income comparison, but that one is sort of given. It's an obvious assumption to have that correlation. That's what I mean by not being "intellecually rigorous". It was too obvious. Everything else that I did was just looking at interesting possibilities of correlations and not finding any. My argument was that there should be a correlation between religious affiliation (however general) to GDP (in some form), or at the very least to income (in this case the median). However, because of many factors, I was unable to prove this. This inability to prove the solution of correlation has led me to not be so conviced now.
+
+I really think I can spend more time on another interest, or even this project, if I was allowed access to better and more data, but for now I am content that I will not be content of how this turned out. It's okay to not find this correlation now. My professor informed me after my submission that it is a common misconception in humans to assume that there should be a statistic correlation between a few things because we have certain biases that cause us to want to see that connection. We convince ourselves that there "should" be a correlation and that is why, my professor said, I am so dissappointed in myself. After hearing them explain this concept I have reignighted my enthusiasm with this project, and I have made slight tweaks to the beginning to add a disclaimer.
+
+#Thank you for your time!
+Landon Mead
